@@ -1,6 +1,6 @@
 # movie-collaboration
 Module 1 project on movie exploratory data analysis. 
-Mettrics:   
+Metrics:   
   - Profit Margin & Genres
   - Director, Budget & World Wide Gross
 
