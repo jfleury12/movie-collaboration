@@ -1,7 +1,7 @@
 # movie-collaboration
 Authors: Laurent Mundell & Justin Fleury
 
-Module 1 project on movie exploratory data analysis. Attempt 
+Module 1 project on movie exploratory data analysis. Analysis to recommend types of movies and directors.
 
 Metrics:   
   - Average profit margin & average IMDB rating per genre
